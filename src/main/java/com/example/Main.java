@@ -45,7 +45,7 @@ public class Main {
   private DataSource dataSource;
 
   public static void main(String[] args) throws Exception {
-    System.out.Errorprintln("TestMessage");
+    System.out.println("TestMessage");
     SpringApplication.run(Main.class, args);
   }
 
